@@ -1,4 +1,4 @@
-package com.yupi.usercenter.model.domain.request;
+package com.Macieyuq.usercenter.model.domain.request;
 
 import lombok.Data;
 
@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 用户登录请求体
  *
- * @author yupi
+ * @author Macieyuq
  */
 @Data
 public class UserLoginRequest implements Serializable {
