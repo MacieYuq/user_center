@@ -1,11 +1,11 @@
-package com.yupi.usercenter;
+package com.Macieyuq.usercenter;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.yupi.usercenter.mapper")
+@MapperScan("com.Macieyuq.usercenter.mapper")
 public class UserCenterApplication {
 
     public static void main(String[] args) {
