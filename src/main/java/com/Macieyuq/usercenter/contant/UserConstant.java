@@ -1,9 +1,9 @@
-package com.yupi.usercenter.contant;
+package com.Macieyuq.usercenter.contant;
 
 /**
  * 用户常量
  *
- * @author yupi
+ * @author Macieyuq
  */
 public interface UserConstant {
 
