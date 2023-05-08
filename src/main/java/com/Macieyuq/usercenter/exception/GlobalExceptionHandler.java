@@ -1,8 +1,8 @@
-package com.yupi.usercenter.exception;
+package com.Macieyuq.usercenter.exception;
 
-import com.yupi.usercenter.common.BaseResponse;
-import com.yupi.usercenter.common.ErrorCode;
-import com.yupi.usercenter.common.ResultUtils;
+import com.Macieyuq.usercenter.common.BaseResponse;
+import com.Macieyuq.usercenter.common.ErrorCode;
+import com.Macieyuq.usercenter.common.ResultUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * 全局异常处理器
  *
- * @author yupi
+ * @author Macieyuq
  */
 @RestControllerAdvice
 @Slf4j
