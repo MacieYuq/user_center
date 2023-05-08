@@ -1,9 +1,9 @@
-package com.yupi.usercenter.common;
+package com.Macieyuq.usercenter.common;
 
 /**
  * 错误码
  *
- * @author yupi
+ * @author Macieyuq
  */
 public enum ErrorCode {
 
