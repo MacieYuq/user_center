@@ -1,12 +1,12 @@
-package com.yupi.usercenter.service.impl;
+package com.Macieyuq.usercenter.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.yupi.usercenter.common.ErrorCode;
-import com.yupi.usercenter.exception.BusinessException;
-import com.yupi.usercenter.model.domain.User;
-import com.yupi.usercenter.service.UserService;
-import com.yupi.usercenter.mapper.UserMapper;
+import com.Macieyuq.usercenter.common.ErrorCode;
+import com.Macieyuq.usercenter.exception.BusinessException;
+import com.Macieyuq.usercenter.model.domain.User;
+import com.Macieyuq.usercenter.service.UserService;
+import com.Macieyuq.usercenter.mapper.UserMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;
@@ -22,7 +22,7 @@ import static com.yupi.usercenter.contant.UserConstant.USER_LOGIN_STATE;
 /**
  * 用户服务实现类
  *
- * @author yupi
+ * @author Macieyuq
  */
 @Service
 @Slf4j
