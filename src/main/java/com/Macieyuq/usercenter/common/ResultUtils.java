@@ -1,9 +1,9 @@
-package com.yupi.usercenter.common;
+package com.Macieyuq.usercenter.common;
 
 /**
  * 返回工具类
  *
- * @author yupi
+ * @author Macieyuq
  */
 public class ResultUtils {
 
