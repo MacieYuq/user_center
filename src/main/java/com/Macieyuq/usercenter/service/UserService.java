@@ -1,6 +1,6 @@
-package com.yupi.usercenter.service;
+package com.Macieyuq.usercenter.service;
 
-import com.yupi.usercenter.model.domain.User;
+import com.Macieyuq.usercenter.model.domain.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import javax.servlet.http.HttpServletRequest;
@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 用户服务
  *
- * @author yupi
+ * @author Macieyuq
  */
 public interface UserService extends IService<User> {
 
