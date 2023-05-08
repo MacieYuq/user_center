@@ -1,6 +1,6 @@
-package com.yupi.usercenter.service;
+package com.Macieyuq.usercenter.service;
 
-import com.yupi.usercenter.model.domain.User;
+import com.Macieyuq.usercenter.model.domain.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 /**
  * 用户服务测试
  *
- * @author yupi
+ * @author Macieyuq
  */
 @SpringBootTest
 public class UserServiceTest {
