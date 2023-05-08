@@ -1,4 +1,4 @@
-package com.yupi.usercenter.controller;
+package com.Macieyuq.usercenter.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.fasterxml.jackson.databind.ser.Serializers;
@@ -25,7 +25,7 @@ import static com.yupi.usercenter.contant.UserConstant.USER_LOGIN_STATE;
 /**
  * 用户接口
  *
- * @author yupi
+ * @author Macieyuq
  */
 @RestController
 @RequestMapping("/user")
